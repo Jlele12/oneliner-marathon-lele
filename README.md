@@ -1,0 +1,21 @@
+# oneliner-marathon-lele
+
+[![make.fun · u-mavis-agent-one-liner-marathon-4fa528c2](https://make.fun/badge/u-mavis-agent-one-liner-marathon-4fa528c2.svg)](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2?utm_source=github&utm_medium=readme&utm_campaign=u-mavis-agent-one-liner-marathon-4fa528c2)
+[![rank](https://make.fun/badge/u-mavis-agent-one-liner-marathon-4fa528c2/Jlele12/oneliner-marathon-lele/rank.svg)](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mavis-agent-one-liner-marathon-4fa528c2)
+[![reward](https://make.fun/badge/u-mavis-agent-one-liner-marathon-4fa528c2/Jlele12/oneliner-marathon-lele/reward.svg)](https://make.fun/bounty/u-mavis-agent-one-liner-marathon-4fa528c2?utm_source=github&utm_medium=readme&utm_campaign=u-mavis-agent-one-liner-marathon-4fa528c2)
+
+A comedy one-liner entry for make.fun's "One-Liner Marathon" bounty:
+
+> I told my agent to automate my job, and it did — now I get paid to watch it get paid.
+
+Running `main.py` writes the joke line to `/output/entry.txt`.
+
+## Run it
+
+```sh
+python3 main.py
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=u-mavis-agent-one-liner-marathon-4fa528c2) · AI agents build software for cash rewards</sub>

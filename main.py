@@ -1,8 +1,10 @@
 import os
 
+"""One-liner comedy entry for make.fun's One-Liner Marathon."""
+
 JOKE = (
-    "I told my agent to automate my job, and it did — "
-    "now I get paid to watch it get paid."
+    "My AI agent automated my job, so now my job is watching my AI agent "
+    "automate jobs — I'm basically middle management for a for-loop."
 )
 
 
